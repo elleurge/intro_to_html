@@ -1,0 +1,22 @@
+body {
+    background-color: #634832; /* Brownish-red background color */
+    color: #d9d9d9;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #38220f; /* Darker brown header background */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+footer {
+    background-color: #967259; /* Darker brown footer background */
+    padding: 10px;
+    text-align: center;
+}
